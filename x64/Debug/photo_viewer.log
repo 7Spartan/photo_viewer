@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Projects\cpp\Photos\photo_viewer\main.cpp(160,67): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  photo_viewer.vcxproj -> D:\Projects\cpp\Photos\photo_viewer\x64\Debug\photo_viewer.exe

@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\Projects\cpp\Photos\photo_viewer\main.cpp(108,75): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  58 of 588 functions ( 9.9%) were compiled, the rest were copied from previous compilation.
+    47 functions were new in current compilation
+    77 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  photo_viewer.vcxproj -> D:\Projects\cpp\Photos\photo_viewer\x64\Release\photo_viewer.exe
